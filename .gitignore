@@ -1,0 +1,20 @@
+# Dependencias y archivos generados por Node.js/TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Variables de entorno locales
+.env
+.env.*
+!.env.example
+
+# Registros y archivos temporales
+*.log
+.cache/
+
+# Configuracion local del editor y del sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
